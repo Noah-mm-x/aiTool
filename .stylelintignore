@@ -1,0 +1,8 @@
+dist
+.husky
+.vscode
+node_modules
+stats.html
+src/assets/icon/*
+src/assets/base.scss
+src/assets/index.css
